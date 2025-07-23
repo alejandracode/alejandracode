@@ -1,4 +1,4 @@
-# ¡Hola, soy Alejandra Girón! 👋
+# ¡Hola, soy Alejandra! 👋
 
 🎓 Estudiante de **Ingeniería en Desarrollo de Software**  
 💻 Apasionada por el desarrollo web y la programación  
