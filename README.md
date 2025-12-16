@@ -1,7 +1,8 @@
 # ¡Hola, soy Alejandra! 👋
 
 🎓 Estudiante de **Ingeniería en Desarrollo de Software**  
-💻 Apasionada por el desarrollo web y la programación  
+🔒 **Técnica Superior en Ciberseguridad**  
+💻 Apasionada por la programación y aprender un poco de todo  
 📍 Desde El Salvador  
 ⚡ Fun fact: ¡El chocolate me da energía para programar! 🍫💻
 
